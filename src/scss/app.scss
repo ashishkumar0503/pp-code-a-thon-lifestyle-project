@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 10rem;
+  background-image: url(../images/bg-header-desktop.svg);
+  background-color: white;
+}
+
+.career{
+  color:black;
+  text-align: center;
+  padding: 50px;
+  font-size: 48px;
+}
+
+.career:hover{
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.567);
+}
+
+
+
