@@ -1,5 +1,4 @@
 import React from "react";
-import github from "../images/github.png";
 import './Footer.css';
 
 const Footer = () => {
@@ -7,9 +6,8 @@ const Footer = () => {
     <>
       <footer className="footer">
         <div className="footer-content">
-          <p>Made with ❤️ by Geek Navi {""}
-            <a href="" target="_blank"/>
-            {/* <span><img src={github} alt=""/></span> */}
+          <p>Made with ❤️ by  
+            <a href="https://github.com/ashishkumar0503/pp-code-a-thon-lifestyle-project" target="_blank" rel="noreferrer"> Geek Navi</a>
             </p> 
         </div>
       </footer>
